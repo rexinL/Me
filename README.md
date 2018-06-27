@@ -6,7 +6,7 @@
 
 var lang=["C#","python","nodejs"];  //nodejs啥都好，就async語法奇噁
 
-
+<br />
 multichart要收錢之後，就愛上Amibroker
 
 然後工作私事太忙就荒廢了
