@@ -25,7 +25,6 @@ multichart要收錢之後，就愛上Amibroker
 
 是說與其讓我寫我會什麼，不如直接丟給task過來
 
-
 <br /><br /><br /><br />
 
 
