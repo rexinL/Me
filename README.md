@@ -6,7 +6,7 @@
 
 var lang=["C#","python","nodejs"];  
 
-#nodejs啥都好，就async語法奇噁
+#nodejs啥都好，就async語法奇噁,clean code都要哭了(2018-06-27)
 
 #最近因為被鞭策，才發現nodejs 8改了async語法，證明鞭策很重要啊(2018-06-28)
 
